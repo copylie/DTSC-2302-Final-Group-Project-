@@ -1,7 +1,7 @@
 # DTSC-2302 Final Group Project  
 ## Modeling Neighborhood Factors Influencing Housing Prices
 
-**Pavle Dimitrijevic, Ikumi Uemura, Michael Forshay, Sonia Son, and James Harris**
+**Pavle Dimitrijevic, Ikumi Uemura, Michael Forshay, Sonia Sun, and James Harris**
 
 ---
 
